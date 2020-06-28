@@ -12,8 +12,7 @@ The Berkeley Bootcamp was a very intense journey and throughout the course I lea
 ### Team Assessment:
 This project gave me the opportunity to work with very professional and respectful teammates. Cristina, Doug. Drew and I were working as one with a spirit of teamwork. We assigned work based on our technical passion and strengths. Every member was willing to provide information and contribute. The good communication and the mutual respect made the process smooth and fun despite the heavy load of work. We were able to meet and connect with each other via Zoom, Slack and emails. We did not depend on the class sessions to update each other. <br/>
 <br/>
-After we decided to choose the Covid-19 topic, we were faced with the challenge of finding the suitable data and had to change our topic questions based on the data available. We also changed the selected machine learning module many times due to the absence of complete and comprehesive data.<br/>
-These challenges were alleviated through mutual team support.<br/>
+After we decided to choose the Covid-19 topic, we were faced with the challenge of finding the suitable data and had to change our topic questions based on the data available. We also changed the selected machine learning module many times due to the absence of complete and comprehesive data. These challenges were alleviated through mutual team support.<br/>
 <br/>
 ### Summary of Project:
 We collected data around the COVID-19 epidemic to understand its impact and predict future cases. We used the ARIMA and VAR model and achieved a 81% accuracy predicting cases would rise in July 2020. We also used Tableau to provide data visualizations about our study. <br/>

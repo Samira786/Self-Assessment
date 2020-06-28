@@ -9,4 +9,6 @@ This project gave me the opportunity to work with very professional and respectf
 After we decided to choose the Covid-19 topic, we were faced with the challenge of finding the suitable data and had to change our topic questions based on the data available. We also changed the selected machine learning module many times due to the absence of complete and comprehesive data.<br/>
 These challenges were alleviated through mutual team support.<br/>
 # Summary of Project:
-We collected data around the COVID-19 epidemic to understand its impact and predict future cases. We used the ARIMA and VAR model and achieved a 81% accuracy predicting cased would rise in July 2020. We also used Tableau to provide data visualizations about our study.
+We collected data around the COVID-19 epidemic to understand its impact and predict future cases. We used the ARIMA and VAR model and achieved a 81% accuracy predicting cased would rise in July 2020. We also used Tableau to provide data visualizations about our study. <br/>
+
+https://public.tableau.com/profile/doug.smith8181#!/vizhome/CovidinCalifornia_15909686590090/COVIDinCalifornia
